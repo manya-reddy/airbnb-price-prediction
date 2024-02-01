@@ -1,7 +1,7 @@
 # Airbnb-price-prediction
  
 Abstract
-ML Data Cleaning and Feature Selection Abstract. Airbnb's are the booming options for short time living for travellers. Most people make their side hustle by giving out properties for rent on Airbnb and thus, to be able to predict the value in a city is the purpose of this data analysis.
+ML Data Cleaning and Feature Selection . Airbnb's are the booming options for short time living for travellers. Most people make their side hustle by giving out properties for rent on Airbnb and thus, to be able to predict the value in a city is the purpose of this data analysis.
 
 -The notebook has used various statistics and methods like p-value, t-statistics and visualization techniques like histogram, Q-Q plot, scatter plot and box-plots using various Python libraries like matplotlib, seaborn, etc to answer the below questions about the dataset
 
